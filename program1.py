@@ -5,7 +5,7 @@ def smallest_missing_positive_integer(nums):
     to find the smallest missing positive integer in the given list.
 
     """
-    res = 0 
+    res = 1 
     nums.sort()
     for i in nums :
         if res == i:
