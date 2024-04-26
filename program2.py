@@ -9,7 +9,8 @@ def longest_substring(s: str) -> int:
     """ 
     res = 0
 
-    for ch in s : 
+    for i in range(len(s)): 
+        
 
 
 
