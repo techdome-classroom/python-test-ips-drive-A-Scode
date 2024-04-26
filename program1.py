@@ -7,7 +7,7 @@ def smallest_missing_positive_integer(nums: List[int]) -> int:
     """
     res = 0 
     for i in nums :
-        if res 
+        if res ==
 
 
 
