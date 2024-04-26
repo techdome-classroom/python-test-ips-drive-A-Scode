@@ -7,7 +7,10 @@ def longest_substring(s: str) -> int:
     the length of the longest substring without repeating characters.
 
     """ 
-    
+    res = 0
+
+    for c in s : 
+        
 
 
 
