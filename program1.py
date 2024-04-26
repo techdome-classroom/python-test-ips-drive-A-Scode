@@ -9,7 +9,8 @@ def smallest_missing_positive_integer(nums: List[int]) -> int:
     nums.sort()
     for i in nums :
         if res == i:
-            res++
+            res+=1
+        
 
 
 
