@@ -5,7 +5,7 @@ def smallest_missing_positive_integer(nums: List[int]) -> int:
     to find the smallest missing positive integer in the given list.
 
     """
-    pass
+    
 
 
 
