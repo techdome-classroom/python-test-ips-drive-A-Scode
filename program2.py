@@ -9,7 +9,7 @@ def longest_substring(s: str) -> int:
     """ 
     res = 0
 
-    chars = Set([])
+    chars = set([])
 
     for i in range(len(s)): 
         
